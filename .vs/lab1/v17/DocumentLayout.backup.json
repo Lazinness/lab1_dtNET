@@ -1,26 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Candy\\source\\repos\\lab1\\",
+  "WorkspaceRootPath": "C:\\Users\\Candy\\lab1_dtNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|c:\\users\\candy\\source\\repos\\lab1\\lab1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|solutionrelative:lab1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|c:\\users\\candy\\lab1_dtnet\\lab1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|solutionrelative:lab1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|c:\\users\\candy\\source\\repos\\lab1\\lab1\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|solutionrelative:lab1\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|C:\\Users\\Candy\\lab1_dtNET\\lab1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|solutionrelative:lab1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|c:\\users\\candy\\source\\repos\\lab1\\lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|solutionrelative:lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|c:\\users\\candy\\lab1_dtnet\\lab1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|solutionrelative:lab1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|c:\\users\\candy\\source\\repos\\lab1\\lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|c:\\users\\candy\\lab1_dtnet\\lab1\\tabul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|solutionrelative:lab1\\tabul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|c:\\users\\candy\\lab1_dtnet\\lab1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|solutionrelative:lab1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|c:\\users\\candy\\lab1_dtnet\\lab1\\arrays2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|solutionrelative:lab1\\arrays2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|c:\\users\\candy\\lab1_dtnet\\lab1\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|solutionrelative:lab1\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|c:\\users\\candy\\lab1_dtnet\\lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|solutionrelative:lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|c:\\users\\candy\\source\\repos\\lab1\\lab1\\tabul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|solutionrelative:lab1\\tabul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|c:\\users\\candy\\lab1_dtnet\\lab1\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|solutionrelative:lab1\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|C:\\Users\\Candy\\lab1_dtNET\\lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|solutionrelative:lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|c:\\users\\candy\\lab1_dtnet\\lab1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD52EA60-1711-4E0E-9115-D9BDE69D27C0}|lab1\\lab1.csproj|solutionrelative:lab1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,64 +70,138 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Candy\\source\\repos\\lab1\\lab1\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "lab1\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Candy\\source\\repos\\lab1\\lab1\\Form1.Designer.cs",
-              "RelativeToolTip": "lab1\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Form3.cs",
+              "RelativeDocumentMoniker": "lab1\\Form3.cs",
+              "ToolTip": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Form3.cs",
+              "RelativeToolTip": "lab1\\Form3.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA8wDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T14:07:01.485Z",
+              "WhenOpened": "2026-09-09T16:10:54.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.resx",
-              "DocumentMoniker": "C:\\Users\\Candy\\source\\repos\\lab1\\lab1\\Form1.resx",
-              "RelativeDocumentMoniker": "lab1\\Form1.resx",
-              "ToolTip": "C:\\Users\\Candy\\source\\repos\\lab1\\lab1\\Form1.resx",
-              "RelativeToolTip": "lab1\\Form1.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-09-08T14:07:01.376Z",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Form3.cs",
+              "RelativeDocumentMoniker": "lab1\\Form3.cs",
+              "ToolTip": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Form3.cs [Design]",
+              "RelativeToolTip": "lab1\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T16:09:05.662Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Arrays2D.cs",
+              "DocumentMoniker": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Arrays2D.cs",
+              "RelativeDocumentMoniker": "lab1\\Arrays2D.cs",
+              "ToolTip": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Arrays2D.cs",
+              "RelativeToolTip": "lab1\\Arrays2D.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwD0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T15:18:24.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Arrays.cs",
+              "DocumentMoniker": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Arrays.cs",
+              "RelativeDocumentMoniker": "lab1\\Arrays.cs",
+              "ToolTip": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Arrays.cs",
+              "RelativeToolTip": "lab1\\Arrays.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv04AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T14:26:09.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Candy\\source\\repos\\lab1\\lab1\\Form1.cs",
-              "RelativeDocumentMoniker": "lab1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Candy\\source\\repos\\lab1\\lab1\\Form1.cs [Design]",
-              "RelativeToolTip": "lab1\\Form1.cs [Design]",
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Form2.cs",
+              "RelativeDocumentMoniker": "lab1\\Form2.cs",
+              "ToolTip": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Form2.cs",
+              "RelativeToolTip": "lab1\\Form2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T11:53:16.366Z",
+              "WhenOpened": "2026-09-08T14:24:19.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Form2.cs",
+              "RelativeDocumentMoniker": "lab1\\Form2.cs",
+              "ToolTip": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Form2.cs [Design]",
+              "RelativeToolTip": "lab1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T14:20:48.44Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Candy\\source\\repos\\lab1\\lab1\\Form1.cs",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "lab1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Form1.Designer.cs",
+              "RelativeToolTip": "lab1\\Form1.Designer.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAADwv+MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T14:07:01.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Form1.resx",
+              "RelativeDocumentMoniker": "lab1\\Form1.resx",
+              "ToolTip": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Form1.resx",
+              "RelativeToolTip": "lab1\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-08T14:07:01.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Form1.cs",
               "RelativeDocumentMoniker": "lab1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Candy\\source\\repos\\lab1\\lab1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Form1.cs [Design]",
+              "RelativeToolTip": "lab1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T11:53:16.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Form1.cs",
+              "RelativeDocumentMoniker": "lab1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Form1.cs",
               "RelativeToolTip": "lab1\\Form1.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswC4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T11:45:53.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Tabul.cs",
-              "DocumentMoniker": "C:\\Users\\Candy\\source\\repos\\lab1\\lab1\\Tabul.cs",
+              "DocumentMoniker": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Tabul.cs",
               "RelativeDocumentMoniker": "lab1\\Tabul.cs",
-              "ToolTip": "C:\\Users\\Candy\\source\\repos\\lab1\\lab1\\Tabul.cs",
+              "ToolTip": "C:\\Users\\Candy\\lab1_dtNET\\lab1\\Tabul.cs",
               "RelativeToolTip": "lab1\\Tabul.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC8AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T11:23:17.546Z"
+              "WhenOpened": "2026-09-07T11:23:17.546Z",
+              "EditorCaption": ""
             }
           ]
         }

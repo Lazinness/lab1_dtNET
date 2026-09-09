@@ -46,9 +46,14 @@
             label5 = new Label();
             button1 = new Button();
             pictureBox1 = new PictureBox();
+            menuStrip1 = new MenuStrip();
+            ToolStripMenuItem = new ToolStripMenuItem();
+            toolStripMenuItem1 = new ToolStripMenuItem();
+            toolStripMenuItem2 = new ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)chart1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
             // textBox1
@@ -189,6 +194,37 @@
             pictureBox1.TabIndex = 14;
             pictureBox1.TabStop = false;
             // 
+            // menuStrip1
+            // 
+            menuStrip1.ImageScalingSize = new Size(20, 20);
+            menuStrip1.Items.AddRange(new ToolStripItem[] { ToolStripMenuItem });
+            menuStrip1.Location = new Point(0, 0);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Size = new Size(800, 28);
+            menuStrip1.TabIndex = 15;
+            menuStrip1.Text = "menuStrip1";
+            // 
+            // ToolStripMenuItem
+            // 
+            ToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { toolStripMenuItem1, toolStripMenuItem2 });
+            ToolStripMenuItem.Name = "ToolStripMenuItem";
+            ToolStripMenuItem.Size = new Size(158, 24);
+            ToolStripMenuItem.Text = "Робота з масивами";
+            // 
+            // toolStripMenuItem1
+            // 
+            toolStripMenuItem1.Name = "toolStripMenuItem1";
+            toolStripMenuItem1.Size = new Size(239, 26);
+            toolStripMenuItem1.Text = "Одновимірні масиви";
+            toolStripMenuItem1.Click += toolStripMenuItem1_Click;
+            // 
+            // toolStripMenuItem2
+            // 
+            toolStripMenuItem2.Name = "toolStripMenuItem2";
+            toolStripMenuItem2.Size = new Size(239, 26);
+            toolStripMenuItem2.Text = "Двовимірні масиви";
+            toolStripMenuItem2.Click += toolStripMenuItem2_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -208,11 +244,15 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(textBox1);
+            Controls.Add(menuStrip1);
+            MainMenuStrip = menuStrip1;
             Name = "Form1";
             Text = "ЛР1";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ((System.ComponentModel.ISupportInitialize)chart1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            menuStrip1.ResumeLayout(false);
+            menuStrip1.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -234,5 +274,9 @@
         private Label label5;
         private Button button1;
         private PictureBox pictureBox1;
+        private MenuStrip menuStrip1;
+        private ToolStripMenuItem ToolStripMenuItem;
+        private ToolStripMenuItem toolStripMenuItem2;
+        private ToolStripMenuItem toolStripMenuItem1;
     }
 }
