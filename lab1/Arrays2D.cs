@@ -83,7 +83,7 @@ namespace lab1
             for (int i = 0; i < x_length; i++)
                 for (int j = 0; j < y_length; j++)
                 {
-                    if (i > j && this[i, j] < 0) count++;
+                    if (i > j && this[i, j] < 0) count++;   //перебір не через форіч
                 }
 
             return count;

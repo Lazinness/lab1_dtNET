@@ -9,15 +9,15 @@ namespace lab1
     internal class Arrays
     {
         public bool error = false;
-        int[] a;
-        int length = 5;
+        int[] a;    //за замовчанням приватне поле
+        int length = 5; //дефолт
 
         public int Length
         {
             get { return length; }
             set { length = value; }
         }
-
+        //індексатор
         public int this[int i] 
         {
             get
@@ -42,6 +42,7 @@ namespace lab1
                 }
             }
         }
+        //конструктори
         public Arrays()
         {
             a = new int[length];
@@ -61,6 +62,7 @@ namespace lab1
                 this[i] = rand.Next(-40, 10);
             }
         }
+        //функція обрахунку суми
         public (int, int) Sum
         {
             get
